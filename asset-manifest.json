@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/weather-test-project/static/css/main.e0382e13.css",
+    "main.js": "/weather-test-project/static/js/main.1191cea3.js",
+    "static/js/750.8c232727.chunk.js": "/weather-test-project/static/js/750.8c232727.chunk.js",
+    "static/js/135.44888e96.chunk.js": "/weather-test-project/static/js/135.44888e96.chunk.js",
+    "static/js/425.8c765df6.chunk.js": "/weather-test-project/static/js/425.8c765df6.chunk.js",
+    "index.html": "/weather-test-project/index.html",
+    "main.e0382e13.css.map": "/weather-test-project/static/css/main.e0382e13.css.map",
+    "main.1191cea3.js.map": "/weather-test-project/static/js/main.1191cea3.js.map",
+    "750.8c232727.chunk.js.map": "/weather-test-project/static/js/750.8c232727.chunk.js.map",
+    "135.44888e96.chunk.js.map": "/weather-test-project/static/js/135.44888e96.chunk.js.map",
+    "425.8c765df6.chunk.js.map": "/weather-test-project/static/js/425.8c765df6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0382e13.css",
+    "static/js/main.1191cea3.js"
+  ]
+}
